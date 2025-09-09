@@ -1,7 +1,7 @@
 {
   "name": "porfolio",
   "version": "0.1.0",
-  "homepage": "https://Kathirvelan189.github.io/portfolio",
+  "homepage": "https://Kathirvelan189/portfolio",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
@@ -22,7 +22,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build -r https://Kathirvelan189.github.io/portfolio"
+    "deploy": "gh-pages -d build -r https://Kathirvelan189/portfolio"
   },
   "eslintConfig": {
     "extends": [
